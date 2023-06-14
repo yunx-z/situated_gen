@@ -1,0 +1,155 @@
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2", "statement": "1 day has 1440 minutes\n", "NERs": "1 day:DATE, 1440 minutes:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::5", "statement": "12:00 PM is noon\n", "NERs": "12:00 PM is noon:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::6", "statement": "168 hours is a week\n", "NERs": "168 hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::7", "statement": "2008 to 2018 is a decade\n", "NERs": "2008 to 2018:DATE, decade:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::15", "statement": "8 to 9 hours of sleep/rest is optimal for health\n", "NERs": "8 to 9 hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::107", "statement": "A year is 365.3 days\n", "NERs": "365.3 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::108", "statement": "A year will see about 52 weeks\n", "NERs": "about 52 weeks:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::173", "statement": "Animals will die if they don't have warmth in winter\n", "NERs": "winter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::179", "statement": "Arizona is mostly desert\n", "NERs": "Arizona:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::183", "statement": "Australia is in the southern hemisphere.\n", "NERs": "Australia:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::196", "statement": "Bears have their fur get thick to prepare for winter\n", "NERs": "winter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::235", "statement": "Caracas is in the northern hemisphere\n", "NERs": "Caracas:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::241", "statement": "Cats shed during the summer.\n", "NERs": "the summer:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::242", "statement": "Cats shed their fur in the summer\n", "NERs": "summer:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::248", "statement": "Christmas occurs in winter, a season\n", "NERs": "Christmas:EVENT, winter:DATE, season:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::259", "statement": "Columbia is mountainous with loose soil\n", "NERs": "Columbia:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::285", "statement": "December 1st is the day after November 30th\n", "NERs": "December 1st:DATE, the day after November 30th:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::286", "statement": "December is also during the winter in the northern hemisphere\n", "NERs": "December:DATE, the northern hemisphere:LOC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::287", "statement": "December is the last month of the year\n", "NERs": "December:DATE, the last month of the year:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::311", "statement": "Eagles are associated with America and is the animal on a one dollar bill and the long eared animal on a cartoon commonly eating a carrot and saying What's up doc? is bugs bunny which is a rabbit\n", "NERs": "America:GPE, one dollar:MONEY"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::356", "statement": "Fiji is a small island that will be swallowed by raising water levels\n", "NERs": "Fiji:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::383", "statement": "Geese flying from michigan to Florida is migration\n", "NERs": "michigan:GPE, Florida:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::407", "statement": "Halloween is never celebrated in summer\n", "NERs": "Halloween:DATE, summer:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::421", "statement": "Honolulu has mountains\n", "NERs": "Honolulu:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::422", "statement": "Honolulu is an island made from lava\n", "NERs": "Honolulu:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::438", "statement": "Hurricane Harvey dumped heavy rains on Houston which caused flooding\n", "NERs": "Hurricane Harvey:EVENT, Houston:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::439", "statement": "Hurricane Maria was a storm that occurred in 2017\n", "NERs": "Hurricane Maria:EVENT, 2017:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::462", "statement": "Independence Day is in summer when there is more daylight\n", "NERs": "Independence Day:EVENT"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::473", "statement": "It gets dark early during December.\n", "NERs": "December:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::476", "statement": "It takes 30 days for the moon to go around our planet\n", "NERs": "30 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::479", "statement": "January has shorter days.\n", "NERs": "January:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::480", "statement": "January is a winter month\n", "NERs": "January:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::481", "statement": "January is cold\n", "NERs": "January:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::482", "statement": "January is in the winter\n", "NERs": "January:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::483", "statement": "Japan dropped bombs on Pearl Harbor\n", "NERs": "Japan:GPE, Pearl Harbor:FAC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::484", "statement": "Japan has Earthquakes\n", "NERs": "Japan:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::487", "statement": "July is a month during the summer\n", "NERs": "July:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::488", "statement": "July is in the summer\n", "NERs": "July:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::489", "statement": "July is in winter in the Southern Hemisphere\n", "NERs": "July:DATE, the Southern Hemisphere:LOC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::490", "statement": "June 1st is the first day of winter in Australia, which is in the southern hemisphere\n", "NERs": "June 1st:DATE, winter:DATE, Australia:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::491", "statement": "June 21st is the summer solstice in the northern hemisphere\n", "NERs": "June 21st:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::492", "statement": "June is in summer and is 2 months after April\n", "NERs": "June:DATE, summer:DATE, 2 months:DATE, April:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::493", "statement": "June is in the summer, November is in the fall, the daylight decreases by hours\n", "NERs": "June:DATE, November:DATE, hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::494", "statement": "June is the month after May\n", "NERs": "June:DATE, the month after May:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::495", "statement": "June is the summer in the USA\n", "NERs": "June:DATE, USA:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::541", "statement": "March is Spring in the Northern Hemisphere\n", "NERs": "March:DATE, the Northern Hemisphere:LOC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::558", "statement": "Minneapolis is in a cooler climate than Miami\n", "NERs": "Minneapolis:GPE, Miami:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::566", "statement": "Morocco has a desert environment\n", "NERs": "Morocco:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::576", "statement": "Nebraska is the coldest of the given states.\n", "NERs": "Nebraska:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::582", "statement": "New Zealand is in the southern hemishere\n", "NERs": "New Zealand:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::583", "statement": "New Zealand is in the southern hemisphere\n", "NERs": "New Zealand:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::601", "statement": "One breed of penguins, the Galapagos Penguin lives in the warm waters off the coast of Equador\n", "NERs": "One:CARDINAL, Equador:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::613", "statement": "Our planet is Earth, which has a cold season in the northern hemisphere in the month of December\n", "NERs": "Earth:LOC, the month of December:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::618", "statement": "Panama is in the northern hemisphere\n", "NERs": "Panama:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::621", "statement": "Papua New Guinea is in the southern hemisphere\n", "NERs": "Papua New Guinea:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::632", "statement": "Places like, Osaka, Japan are prone to Earthquakes.\n", "NERs": "Osaka:GPE, Japan:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::707", "statement": "San Bernardino does not get snow in the winter\n", "NERs": "San Bernardino:GPE, winter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::745", "statement": "Some Baby bats start hunting a month after being born.\n", "NERs": "a month:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::781", "statement": "Summer Solstice is in June\n", "NERs": "Summer:DATE, June:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::834", "statement": "The moon is full just under a month out of the year\n", "NERs": "just under a month out of the year:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::856", "statement": "The sun is overhead at noon.\n", "NERs": "noon:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::862", "statement": "The sun sets early in December.\n", "NERs": "December:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::875", "statement": "They didn't have sophisticated navigation technology in the 18th century\n", "NERs": "the 18th century:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::894", "statement": "Transpformers blowing at 11 pm would make it dark\n", "NERs": "11 pm:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::943", "statement": "Winter is attributed with cold temperatures\n", "NERs": "Winter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::944", "statement": "Wisconsin is north of Illinois.\n", "NERs": "Wisconsin:GPE, Illinois:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::981", "statement": "You will be hotter at noon due to the sun\n", "NERs": "noon:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::986", "statement": "Zimbabwe is in the southern hemisphere\n", "NERs": "Zimbabwe:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1031", "statement": "a century is a period of many years\n", "NERs": "century:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1068", "statement": "a day is twenty four hours\n", "NERs": "twenty four hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1071", "statement": "a decade is many years\n", "NERs": "many years:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1072", "statement": "a decade is ten years\n", "NERs": "ten years:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1104", "statement": "a fortnight is two weeks, a month is four weeks\n", "NERs": "fortnight:DATE, two weeks:DATE, month:DATE, four weeks:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1183", "statement": "a month has about 30 days\n", "NERs": "about 30 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1204", "statement": "a period of millions of years is a very lengthy amount of time\n", "NERs": "millions of years:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1250", "statement": "a revolution of the moon is 27 days\n", "NERs": "27 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1436", "statement": "an eagle is the national symbol for the US, a salmon is a fish\n", "NERs": "US:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1667", "statement": "birds migrate to find warmer places for the winter\n", "NERs": "winter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::1998", "statement": "corn and wheat are Americas biggest crops\n", "NERs": "Americas:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2236", "statement": "earth take 365 days to revolve around sun once\n", "NERs": "365 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2243", "statement": "earthquakes last less than one minute on average\n", "NERs": "less than one minute:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2264", "statement": "eight month old tuna is spoiled\n", "NERs": "eight month old:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2326", "statement": "erosions can make beachside property unsafe after a few decades\n", "NERs": "decades:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2346", "statement": "every hour is repeatedly\n", "NERs": "every hour:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2378", "statement": "fall starts in late September north of the equator or late March south of the equator\n", "NERs": "late September:DATE, late March:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2419", "statement": "first quarter is the next moon phase after a new moon\n", "NERs": "first quarter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2762", "statement": "hibernating frogs slumber for years\n", "NERs": "years:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2768", "statement": "high tide and low tide can be measured in the morning and evening\n", "NERs": "morning:TIME, evening:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2799", "statement": "hours are segments of time\n", "NERs": "hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2850", "statement": "hurricanes typically starts in South Africa and head toward the Gulf of Mexico\n", "NERs": "South Africa:GPE, the Gulf of Mexico:LOC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2885", "statement": "if an estimated age is know it can be subtracted from the current year to learn the estimate date of planting\n", "NERs": "the current year:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::2950", "statement": "is take around 365 days for the earth to circle the sun\n", "NERs": "365 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3094", "statement": "light takes a few minutes to reach earth from the sun\n", "NERs": "a few minutes:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3176", "statement": "lunch breaks are often at noon\n", "NERs": "noon:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3298", "statement": "millions of years is a long time\n", "NERs": "millions of years:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3425", "statement": "north dakota to texas is a north to south movement\n", "NERs": "north dakota:GPE, texas:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3428", "statement": "northern most state is alaska\n", "NERs": "alaska:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3503", "statement": "one after the 8th is the 9th\n", "NERs": "one:CARDINAL, the 8th:DATE, the 9th:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3505", "statement": "one day contains 1440 minutes\n", "NERs": "one:CARDINAL, 1440 minutes:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3507", "statement": "one ring each year means one year old\n", "NERs": "one:CARDINAL, one year old:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3508", "statement": "one seventh of a week is one day\n", "NERs": "one seventh of a week:DATE, one day:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3623", "statement": "people wear shorts when it's warm and noon is the middle of the day\n", "NERs": "noon:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::3811", "statement": "pumpkins are often seen on Halloween\n", "NERs": "Halloween:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4371", "statement": "summer is 6 months after Christmas\n", "NERs": "summer:DATE, 6 months after Christmas:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4373", "statement": "summer is in the northern hemisphere in June\n", "NERs": "hemisphere:LOC, June:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4393", "statement": "sunlight takes 8.3 minutes to reach Earth from the sun\n", "NERs": "8.3 minutes:TIME, Earth:LOC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4418", "statement": "swimsuits are worn in June in the northern hemisphere\n", "NERs": "June:DATE, the northern hemisphere:LOC"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4465", "statement": "texas is south\n", "NERs": "texas:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4473", "statement": "the Rockies in America are little more than stacks of gravel due to weathering\n", "NERs": "Rockies:LOC, America:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4659", "statement": "the sun rises and set only once in twenty four hours\n", "NERs": "twenty four hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4679", "statement": "the western and eastern United States have very different climates\n", "NERs": "United States:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4684", "statement": "the winter solstice is the shortest day of the year and the summer solstice is the longest day of the year\n", "NERs": "the shortest day of the year:DATE, the longest day of the year:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4689", "statement": "there are 1,440 minutes in one day\n", "NERs": "1,440 minutes:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4690", "statement": "there are 1440 minutes in a day\n", "NERs": "1440 minutes:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4691", "statement": "there are 24 hours in a day\n", "NERs": "24 hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4692", "statement": "there are 28 days in February\n", "NERs": "28 days:DATE, February:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4693", "statement": "there are 365 days in a standard year\n", "NERs": "365 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4695", "statement": "there are 52 weeks in a year\n", "NERs": "52 weeks:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4696", "statement": "there are 7 days in a week\n", "NERs": "7 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4699", "statement": "there are less sunlight hours in December than the rest of the year\n", "NERs": "December:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4702", "statement": "there are seven days in a week\n", "NERs": "seven days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4703", "statement": "there are three months in each season\n", "NERs": "three months:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4704", "statement": "there are twelve months in a year\n", "NERs": "twelve months:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4711", "statement": "there is less daylight in december in the new york\n", "NERs": "december:DATE, the new york:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4732", "statement": "thirteen weeks is approximately three months\n", "NERs": "weeks:DATE, approximately three months:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4749", "statement": "timberland is forest\n", "NERs": "timberland:GPE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4848", "statement": "twelve months is one year, or 365 days\n", "NERs": "twelve months:DATE, one year:DATE, 365 days:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4849", "statement": "twelve weeks is three months\n", "NERs": "twelve weeks:DATE, three months:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4853", "statement": "two days are 48 hours\n", "NERs": "two days:DATE, 48 hours:TIME"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4916", "statement": "volcanoes can be active for years\n", "NERs": "years:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::4938", "statement": "warm rooms are comfortable in winter\n", "NERs": "winter:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::5091", "statement": "winter begins in December and ends in March\n", "NERs": "December:DATE, March:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::5094", "statement": "winter is in December\n", "NERs": "December:DATE"}
+{"id": "openbookqa::Additional/crowdsourced-facts.txt::5110", "statement": "without wind and rain any marks left on asteroids can potentially last for thousands of years if not longer\n", "NERs": "thousands of years:DATE"}
+{"id": "openbookqa::Main/openbook.txt::50", "statement": "\"August is during the winter in the southern hemisphere\"\n", "NERs": "August:DATE"}
+{"id": "openbookqa::Main/openbook.txt::52", "statement": "\"December is during the summer in the southern hemisphere\"\n", "NERs": "December:DATE"}
+{"id": "openbookqa::Main/openbook.txt::53", "statement": "\"December is during the winter in the northern hemisphere\"\n", "NERs": "December:DATE"}
+{"id": "openbookqa::Main/openbook.txt::72", "statement": "\"January is during the winter in the northern hemisphere\"\n", "NERs": "January:DATE"}
+{"id": "openbookqa::Main/openbook.txt::73", "statement": "\"June is during the summer in the northern hemisphere\"\n", "NERs": "June:DATE"}
+{"id": "openbookqa::Main/openbook.txt::84", "statement": "\"a Rotation of the Earth on Earth 's axis takes 1 day\"\n", "NERs": "Earth:LOC, Earth:LOC, 1:DATE"}
+{"id": "openbookqa::Main/openbook.txt::104", "statement": "\"a canyon forming occurs over a period of millions of years\"\n", "NERs": "a period of millions of years:DATE"}
+{"id": "openbookqa::Main/openbook.txt::119", "statement": "\"a complete revolution of the Earth around the sun takes one Earth year\"\n", "NERs": "Earth:LOC, one Earth year:DATE"}
+{"id": "openbookqa::Main/openbook.txt::120", "statement": "\"a complete revolution of the Earth around the sun takes one solar year\"\n", "NERs": "Earth:LOC, one solar year:DATE"}
+{"id": "openbookqa::Main/openbook.txt::230", "statement": "\"a revolution of the moon around the Earth takes 1 month\"\n", "NERs": "Earth:LOC, 1 month:DATE"}
+{"id": "openbookqa::Main/openbook.txt::332", "statement": "\"an earthquake usually occurs over a period of 10 to 30 seconds\"\n", "NERs": "10 to 30 seconds:TIME"}
+{"id": "openbookqa::Main/openbook.txt::513", "statement": "\"carbon dioxide concentrations in the air have increased over the last decade dramatically\"\n", "NERs": "the last decade:DATE"}
+{"id": "openbookqa::Main/openbook.txt::666", "statement": "\"fossil fuels forming occurs over a period of 300000000 years which is considered a very long time to a human\"\n", "NERs": "300000000 years:DATE"}
+{"id": "openbookqa::Main/openbook.txt::915", "statement": "\"one day is equal to 24 hours\"\n", "NERs": "one day:DATE, 24 hours:TIME"}
+{"id": "openbookqa::Main/openbook.txt::916", "statement": "\"one year is equal to 365 days\"\n", "NERs": "one year:DATE, 365 days:DATE"}
+{"id": "openbookqa::Main/openbook.txt::1132", "statement": "\"the Moon completes a lunar cycle over a period of 29 days\"\n", "NERs": "Moon:LOC, 29 days:DATE"}
+{"id": "openbookqa::Main/openbook.txt::1207", "statement": "\"the summer solstice is on June 21st in the northern hemisphere\"\n", "NERs": "June 21st:DATE, hemisphere:LOC"}
+{"id": "openbookqa::Main/openbook.txt::1211", "statement": "\"the sun is located directly overhead at noon\"\n", "NERs": "noon:TIME"}
+{"id": "openbookqa::Main/openbook.txt::1229", "statement": "\"the winter solstice is on December 21st in the northern hemisphere\"\n", "NERs": "December 21st:DATE, hemisphere:LOC"}
+{"id": "openbookqa::Main/openbook.txt::1230", "statement": "\"the winter solstice is on June 21st in the southern hemisphere\"\n", "NERs": "June 21st:DATE"}
+{"id": "openbookqa::Main/openbook.txt::1275", "statement": "\"weathering usually occurs over a period of many years\"\n", "NERs": "many years:DATE"}
