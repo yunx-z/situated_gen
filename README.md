@@ -1,5 +1,21 @@
 # SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning
 
+This repository contains the data and code for the baseline described in the following paper:
+
+> [**SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning**](https://arxiv.org/pdf/2306.12552)<br/>
+> Yunxiang Zhang, Xiaojun Wan<br/>
+> Preprint. Under review.
+```
+@misc{zhang2023situatedgen,
+      title={SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning}, 
+      author={Yunxiang Zhang and Xiaojun Wan},
+      year={2023},
+      eprint={2306.12552},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ## Datasets
 
 SituatedGen data files are located under `data/`.
