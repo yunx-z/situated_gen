@@ -4,15 +4,14 @@ This repository contains the data and code for the baseline described in the fol
 
 > [**SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning**](https://arxiv.org/pdf/2306.12552)<br/>
 > Yunxiang Zhang, Xiaojun Wan<br/>
-> Preprint. Under review.
+> NeurIPS 2023 Datasets and Benchmarks Track
 ```
-@misc{zhang2023situatedgen,
-      title={SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning}, 
-      author={Yunxiang Zhang and Xiaojun Wan},
-      year={2023},
-      eprint={2306.12552},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{zhang2023situatedgen,
+  title={SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning},
+  author={Zhang, Yunxiang and Wan, Xiaojun},
+  booktitle={Proceedings of the Neural Information Processing Systems Track on
+            Datasets and Benchmarks, NeurIPS Datasets and Benchmarks 2023, New Orleans, LA, United States, December 10-16, 
+            2023},
 }
 ```
 
